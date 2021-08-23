@@ -42,7 +42,6 @@ I will be building a machine learning model to predict antimicrobial peptides
 
 Modules      |  Discription
 -------------|-------------------------------------------------
-
 Conda	       |In which we install packages like python, Our working Environments
 Pfeature      |Pfeature allow us to compute properties of Amino Acid which will be crucial to Quantify the Molecular properties of peptides 
 Jupyter NoteBook/ Colab	|  Note book
