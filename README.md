@@ -16,6 +16,7 @@ Develop By -  Kashaf Naz
 __TABLE OF CONTENTS__
 
 **Obj.**	|**Heading**
+-----------|---------------------------------------
 1|	General Information 	
 2|	Purpose	
 3|	Scope	
@@ -37,14 +38,17 @@ I will be building a machine learning model to predict antimicrobial peptides
 *Particularly, we will be retrieving 2 datasets consisting of antimicrobial peptides (positive set) and non-antimicrobial peptides (negative set). Then, I will be computing some peptide features to quantitatively describe peptides followed by model building and finally model interpretation where we shed light on the key important features important for predicting antimicrobial peptides.
 2.	-**Acronyms and/or definitions**
 
+Modules      |  Discription
+-------------|-------------------------------------------------
+
 *Conda	       |In which we install packages like python, Our working Environments
 -Pfeature      |Pfeature allow us to compute properties of Amino Acid which will be crucial to Quantify the Molecular properties of peptides  
 -Jupyter NoteBook/ Colab	|
 -CD-Hit from bioconda	|A library allows us to fit or out any Redundancy in Peptide Sequence, meaning that peptide that are Much Similar will be removed, So We will get non-redundant and a unique sub set of Peptides that will be using in Molecular sequence
 -Pandas	|It’s data-frame for viewing Visualization
 -Python	|For Programing
-Random Forest classifier	modeling
-Matplotlip	Graph visualization
+-Random Forest classifier|	modeling
+-Matplotlip|	Graph visualization
 
 
 
