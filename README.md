@@ -31,8 +31,8 @@
 
 
 1. **General information**
-*predict activity of short antimicrobial peptides.
-I will be building a machine learning model to predict antimicrobial peptides
+- predict activity of short antimicrobial peptides.
+- I will be building a machine learning model to predict antimicrobial peptides
 	
 -  Purpose
 *Antimicrobial resistance is an urgent and global health problem as existing drugs are becoming ineffective against the treatment of antimicrobial infections.
