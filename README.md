@@ -34,9 +34,9 @@
 *predict activity of short antimicrobial peptides.
 I will be building a machine learning model to predict antimicrobial peptides
 	
-- 1.1. Purpose
+-  Purpose
 *Antimicrobial resistance is an urgent and global health problem as existing drugs are becoming ineffective against the treatment of antimicrobial infections.
-- 1.2.	Scope
+- Scope
 -Particularly, we will be retrieving 2 datasets consisting of antimicrobial peptides (positive set) and non-antimicrobial peptides (negative set). Then, I will be computing some peptide features to quantitatively describe peptides followed by model building and finally model interpretation where we shed light on the key important features important for predicting antimicrobial peptides.
 2.	Acronyms and/or definitions
 
@@ -55,9 +55,8 @@ Matplotlip|	Graph visualization
 
 
 3.  Project Overview
--I will be computing some peptide features to quantitatively describe peptides followed by model building
- Functional Requirements and user Impact
-
+- I will be computing some peptide features to quantitatively describe peptides followed by model building
+4.  Functional Requirements and user Impact
 - Calculate Features Using P features
 - Featuring most to least featured amino acid
 ### Data Resource:
