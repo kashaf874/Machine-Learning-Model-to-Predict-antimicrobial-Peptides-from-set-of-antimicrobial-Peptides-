@@ -60,7 +60,7 @@ Matplotlip|	Graph visualization
 ### **4.  Functional Requirements and user Impact**
      Calculate Features Using P features
      Featuring most to least featured amino acid
-### **Data Resource:**
+### **5. Data Resource:**
      A research paper
 
 
