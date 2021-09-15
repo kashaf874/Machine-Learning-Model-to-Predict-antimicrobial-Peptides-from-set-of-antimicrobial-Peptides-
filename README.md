@@ -42,7 +42,8 @@
     
   ### 2. **Scope**
     Particularly, we will be retrieving 2 datasets consisting of antimicrobial peptides (positive set) and non-antimicrobial peptides (negative set).
-    Then, I will be computing some peptide features to quantitatively describe peptides followed by model building and finally model interpretation where we shed light on the       key important features important for predicting antimicrobial peptides.
+    Then, I will be computing some peptide features to quantitatively describe peptides followed by model building.
+    finally model interpretation where we shed light on the key important features important for predicting antimicrobial peptides.
     
     
     
