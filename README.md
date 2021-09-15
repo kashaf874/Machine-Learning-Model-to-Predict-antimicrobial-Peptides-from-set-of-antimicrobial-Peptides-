@@ -32,13 +32,18 @@
 
 
 ### 1. **General information**
-     predict activity of short antimicrobial peptides.
-     I will be building a machine learning model to predict antimicrobial peptides
+    Predict activity of short antimicrobial peptides.
+    will be building a machine learning model to predict antimicrobial peptides
 	
-      Purpose
-* Antimicrobial resistance is an urgent and global health problem as existing drugs are becoming ineffective against the treatment of antimicrobial infections.
-    - Scope
-    -Particularly, we will be retrieving 2 datasets consisting of antimicrobial peptides (positive set) and non-antimicrobial peptides (negative set). Then, I will be computing        some peptide features to quantitatively describe peptides followed by model building and finally model interpretation where we shed light on the key important features            important for predicting antimicrobial peptides.
+### **1.1Purpose**
+    Antimicrobial resistance is an urgent and global health problem as existing drugs are becoming ineffective against the treatment of antimicrobial infections.
+    
+    
+  ### 2. **Scope**
+    Particularly, we will be retrieving 2 datasets consisting of antimicrobial peptides (positive set) and non-antimicrobial peptides (negative set). Then, I will be computing       some peptide features to quantitatively describe peptides followed by model building and finally model interpretation where we shed light on the key important features           important for predicting antimicrobial peptides.
+    
+    
+    
 ### 2.  **Acronyms and/or definitions**
 
 Modules      |  Discription
@@ -57,9 +62,13 @@ Matplotlip|	Graph visualization
 
 ### 3.  **Project Overview**
      I will be computing some peptide features to quantitatively describe peptides followed by model building
+     
+     
 ### **4.  Functional Requirements and user Impact**
      Calculate Features Using P features
      Featuring most to least featured amino acid
+     
+     
 ### **5. Data Resource:**
      A research paper
 
