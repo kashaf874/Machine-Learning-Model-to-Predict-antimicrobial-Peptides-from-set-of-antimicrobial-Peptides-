@@ -1,17 +1,17 @@
-# Predict Activity of Short Antimicrobial Peptides (QSAR models) Quantitative Structure–activity Relationship Models 
+   # Predict Activity of Short Antimicrobial Peptides (QSAR models) Quantitative Structure–activity Relationship Models 
 
-## Capstone First Project At DevNation
+   ## Capstone First Project At DevNation
 [![N|Solid](https://uploads-ssl.webflow.com/5ff6c1dbc139fb9bf9f6a511/6089ced541a4550bbc1e1a65_Dev__1_-removebg-preview.png)](https://uploads-ssl.webflow.com/5ff6c1dbc139fb9bf9f6a511/6089ced541a4550bbc1e1a65_Dev__1_-removebg-preview.png)
 
 
 
-## **FUNCTIONAL and TECHNICAL REQUIREMENTS**
+   ### **FUNCTIONAL and TECHNICAL REQUIREMENTS**
 
 
-### **Title**
+   ## **Title**
 
 
-# predict activity of short antimicrobial peptides
+  # predict activity of short antimicrobial peptides
 
 ## Develop By -  Kashaf Naz
 
@@ -19,18 +19,18 @@
 
 
 
-									## __TABLE OF CONTENTS__
+## __TABLE OF CONTENTS__
 
-									**Obj.**	|**Heading**
-									-----------|---------------------------------------
-									1|	General Information 	
-									2|	Purpose	
-									3|	Scope	
-									4|	Acronyms and/or definitions	
-									5|	Project Overview	
-									6|	Functional Requirements and user Impact	
-									7|	Data Resource	
-									8|      Lazypredict
+**Obj.**	|**Heading**
+-----------|---------------------------------------
+1|	General Information 	
+2|	Purpose	
+3|	Scope	
+4|	Acronyms and/or definitions	
+5|	Project Overview	
+6|	Functional Requirements and user Impact	
+7|	Data Resource	
+8|      Lazypredict
 
 
 
@@ -86,7 +86,7 @@ we used:
 
 ## 8. **Lazypredict: The automl library​**
 
-- Lazy Predict Helps build a lot of basic models without much code and helps understand
+- [Lazy Predict](https://shyambhu20.blogspot.com/2021/01/what-is-lazypredict-automl-library-and.html) Helps build a lot of basic models without much code and helps understand
 which models works better without any parameter tuning.
 
 - There are two classes, LazyClassifier and LazyRegressor, respectively for classifier and regressor.
