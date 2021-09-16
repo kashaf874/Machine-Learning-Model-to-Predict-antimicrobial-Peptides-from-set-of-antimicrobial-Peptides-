@@ -78,9 +78,19 @@ Matplotlip|	Graph visualization
 ### **5. Data Resource:**
      A research paper
 
-## **Quickly compare >30 ML algorithms**
+# **Quickly compare >30 ML algorithms**
 
 In order to apply Quickly compare >30 ML algorithms​
+we used:
+
+## **Lazypredict: The automl library​**
+
+- Lazy Predict Helps build a lot of basic models without much code and helps understand
+which models works better without any parameter tuning.
+
+- There are two classes, LazyClassifier and LazyRegressor, respectively for classifier and regressor.
+- We can import the classifier class if your problem is classification, and import regressor if you have a regression problem.​
+
 
 
 
