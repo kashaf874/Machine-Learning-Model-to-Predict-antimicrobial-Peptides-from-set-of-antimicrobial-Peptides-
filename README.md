@@ -1,5 +1,8 @@
 # predict activity of short antimicrobial peptides (QSAR models) Quantitative structure–activity relationship models 
+
+## Capstone First Project At DevNation
 [![N|Solid](https://uploads-ssl.webflow.com/5ff6c1dbc139fb9bf9f6a511/6089ced541a4550bbc1e1a65_Dev__1_-removebg-preview.png)](https://uploads-ssl.webflow.com/5ff6c1dbc139fb9bf9f6a511/6089ced541a4550bbc1e1a65_Dev__1_-removebg-preview.png)
+
 
 
 ## **FUNCTIONAL and TECHNICAL REQUIREMENTS**
@@ -75,6 +78,9 @@ Matplotlip|	Graph visualization
 ### **5. Data Resource:**
      A research paper
 
+## **Quickly compare >30 ML algorithms**
+
+In order to apply Quickly compare >30 ML algorithms​
 
 
 
