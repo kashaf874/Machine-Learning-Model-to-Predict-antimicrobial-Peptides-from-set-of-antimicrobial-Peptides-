@@ -92,7 +92,13 @@ which models works better without any parameter tuning.
 - There are two classes, LazyClassifier and LazyRegressor, respectively for classifier and regressor.
 - We can import the classifier class if your problem is classification, and import regressor if you have a regression problem.​
 
-		Data split​  `X_train, X_test, y_train, y_test = train_test_split(X, y, test_size=0.2, random_state =42, stratify=y)​`
+Data split​    `X_train, X_test, y_train, y_test = train_test_split(X, y, test_size=0.2, random_state =42, stratify=y)​`
+	
+Defines and builds the lazyclassifier​  `clf = LazyClassifier(verbose=0,ignore_warnings=True, custom_metric=matthews_corrcoef)​`
+
+`models_train,predictions_train = clf.fit(X_train, X_train, y_train, y_train)​`
+
+`models_test,predictions_test = clf.fit(X_train, X_test, y_train, y_test)​`
 
 
 
