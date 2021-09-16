@@ -92,7 +92,7 @@ which models works better without any parameter tuning.
 - There are two classes, LazyClassifier and LazyRegressor, respectively for classifier and regressor.
 - We can import the classifier class if your problem is classification, and import regressor if you have a regression problem.​
 
-	Data split​`X_train, X_test, y_train, y_test = train_test_split(X, y, test_size=0.2, random_state =42, stratify=y)​`
+		Data split​  `X_train, X_test, y_train, y_test = train_test_split(X, y, test_size=0.2, random_state =42, stratify=y)​`
 
 
 
