@@ -30,6 +30,7 @@
 5|	Project Overview	
 6|	Functional Requirements and user Impact	
 7|	Data Resource	
+8|      Lazypredict
 
 
 
