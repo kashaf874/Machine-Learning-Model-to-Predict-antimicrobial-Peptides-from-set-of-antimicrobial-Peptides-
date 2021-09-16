@@ -39,19 +39,19 @@
     Predict activity of short antimicrobial peptides.
     will be building a machine learning model to predict antimicrobial peptides
 	
-### **1.1Purpose**
+### **2.Purpose**
     Antimicrobial resistance is an urgent and global health problem as existing,
     drugs are becoming ineffective against the treatment of antimicrobial infections.
     
     
-  ### 2. **Scope**
+  ### 3. **Scope**
     Particularly, we will be retrieving 2 datasets consisting of antimicrobial peptides (positive set) and non-antimicrobial peptides (negative set).
     Then, I will be computing some peptide features to quantitatively describe peptides followed by model building.
     finally model interpretation where we shed light on the key important features important for predicting antimicrobial peptides.
     
     
     
-### 2.  **Acronyms and/or definitions**
+### 4.  **Acronyms and/or definitions**
 
 Modules      |  Discription
 -------------|------------------------------------------------
@@ -67,16 +67,16 @@ Matplotlip|	Graph visualization
 
 
 
-### 3.  **Project Overview**
+### 5.  **Project Overview**
      I will be computing some peptide features to quantitatively describe peptides followed by model building
      
      
-### **4.  Functional Requirements and user Impact**
+### **6.  Functional Requirements and user Impact**
      Calculate Features Using P features
      Featuring most to least featured amino acid
      
      
-### **5. Data Resource:**
+### **7. Data Resource:**
      A research paper
 
 # **Quickly compare >30 ML algorithms**
@@ -84,7 +84,7 @@ Matplotlip|	Graph visualization
 In order to apply Quickly compare >30 ML algorithms​
 we used:
 
-## **Lazypredict: The automl library​**
+## 8. **Lazypredict: The automl library​**
 
 - Lazy Predict Helps build a lot of basic models without much code and helps understand
 which models works better without any parameter tuning.
