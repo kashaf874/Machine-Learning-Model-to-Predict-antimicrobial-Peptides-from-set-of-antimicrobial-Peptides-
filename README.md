@@ -100,5 +100,7 @@ Defines and builds the lazyclassifier​  `clf = LazyClassifier(verbose=0,ignore
 
 `models_test,predictions_test = clf.fit(X_train, X_test, y_train, y_test)​`
 
+#### For Results I'll soon Update here
+
 
 
