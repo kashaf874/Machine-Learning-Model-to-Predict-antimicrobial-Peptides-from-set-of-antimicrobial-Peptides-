@@ -59,10 +59,10 @@ Modules      |  Discription
 Pfeature      |Pfeature allow us to compute properties of Amino Acid which will be crucial to Quantify the Molecular properties of peptides 
 Jupyter NoteBook/ Colab	|  Note book
 CD-Hit from bioconda	|A library allows us to fit or out any Redundancy in Peptide Sequence, meaning that peptide that are Much Similar will be removed, So We will get non-redundant and a unique sub set of Peptides that will be using in Molecular sequence
-Pandas	|It’s data-frame for viewing Visualization
 Python	|For Programing
 Random Forest classifier|	modeling
 Matplotlip|	Graph visualization
+LazyPredict | Auto ML Library
 
 
 
