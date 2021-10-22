@@ -1,11 +1,11 @@
-   # Predict Activity of Short Antimicrobial Peptides (QSAR models) Quantitative Structure–activity Relationship Models 
+   # [Predict Activity of Short Antimicrobial Peptides (QSAR models) Quantitative Structure–activity Relationship Models ](https://medium.com/@Kashaf_Naz/predict-activity-of-short-antimicrobial-peptides-qsar-models-quantitative-structure-activity-aa06638e4342)
 
-   ## Capstone First Project At DevNation
+   ## Capstone First Project At DevNation !
 [![N|Solid](https://uploads-ssl.webflow.com/5ff6c1dbc139fb9bf9f6a511/6089ced541a4550bbc1e1a65_Dev__1_-removebg-preview.png)](https://uploads-ssl.webflow.com/5ff6c1dbc139fb9bf9f6a511/6089ced541a4550bbc1e1a65_Dev__1_-removebg-preview.png)
 
 
 
-   ### **FUNCTIONAL and TECHNICAL REQUIREMENTS**
+   ### **_FUNCTIONAL and TECHNICAL REQUIREMENTS_**
 
 
    ## **Title**
@@ -59,10 +59,10 @@ Modules      |  Discription
 Pfeature      |Pfeature allow us to compute properties of Amino Acid which will be crucial to Quantify the Molecular properties of peptides 
 Jupyter NoteBook/ Colab	|  Note book
 CD-Hit from bioconda	|A library allows us to fit or out any Redundancy in Peptide Sequence, meaning that peptide that are Much Similar will be removed, So We will get non-redundant and a unique sub set of Peptides that will be using in Molecular sequence
-Pandas	|It’s data-frame for viewing Visualization
 Python	|For Programing
 Random Forest classifier|	modeling
 Matplotlip|	Graph visualization
+LazyPredict | Auto ML Library
 
 
 
@@ -99,6 +99,8 @@ Defines and builds the lazyclassifier​  `clf = LazyClassifier(verbose=0,ignore
 `models_train,predictions_train = clf.fit(X_train, X_train, y_train, y_train)​`
 
 `models_test,predictions_test = clf.fit(X_train, X_test, y_train, y_test)​`
+
+#### For Results I'll soon Update here
 
 
 
