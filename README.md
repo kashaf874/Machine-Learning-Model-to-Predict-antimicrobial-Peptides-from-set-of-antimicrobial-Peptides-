@@ -15,7 +15,7 @@
 
 ## Develop By -  Kashaf Naz
 
-## [Article](https://medium.com/@Kashaf_Naz?p=aa06638e4342)
+## [Article](https://medium.com/@Kashaf_Naz/predict-activity-of-short-antimicrobial-peptides-qsar-models-quantitative-structure-activity-aa06638e4342)
 
 
 
